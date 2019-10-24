@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">assemble</string>
+    <string name="main_test">main_test</string>
+    <string name="test">app_test</string>
+</resources>

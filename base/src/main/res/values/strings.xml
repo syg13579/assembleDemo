@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">base</string>
+    <string name="b_test">b_test</string>
+    <string name="test">base_test</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="登录页面"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+    <TextView
+        android:id="@+id/success"
+        android:background="#F00"
+        android:textSize="21sp"
+        android:textColor="#FFF"
+        android:gravity="center"
+        android:text="登录成功"
+        android:layout_width="match_parent"
+        android:layout_height="60dp" />
+
+    <TextView
+        android:id="@+id/fail"
+        android:background="#484747"
+        android:textSize="21sp"
+        android:textColor="#FFF"
+        android:gravity="center"
+        android:text="登录失败"
+        android:layout_width="match_parent"
+        android:layout_height="60dp" />
+
+</LinearLayout>

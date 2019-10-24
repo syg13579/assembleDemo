@@ -1,0 +1,1 @@
+include ':app', ':assemblebase', ':base', ':goods', ':login'
